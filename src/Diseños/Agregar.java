@@ -168,7 +168,7 @@ public class Agregar extends javax.swing.JFrame {
     private void Checkbox_AgregarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Checkbox_AgregarActionPerformed
         Btn_Eliminar.setVisible(false);
         if (Checkbox_Agregar.equals(true)) {
-            Checkbox_Eliminar.
+            
         }
     }//GEN-LAST:event_Checkbox_AgregarActionPerformed
 
